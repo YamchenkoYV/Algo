@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\юрий\documents\visual studio 2012\projects\stepic\sort\heapsort\heapsort\source.cpp(193): warning C4101: 'temp' : unreferenced local variable
+  HeapSort.vcxproj -> C:\Users\Юрий\Documents\Visual Studio 2012\Projects\Stepic\Sort\HeapSort\Debug\HeapSort.exe
